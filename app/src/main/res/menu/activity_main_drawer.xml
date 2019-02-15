@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+        <item android:title="Home"/>
+        <item android:title="Courses"/>
+        <item android:title="Projects"/>
+         <item android:title="Materials"/>
+         <item android:title="Placements"/>
+         <item android:title="ContactUs"/>
+
+</menu>
